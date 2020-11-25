@@ -6,7 +6,8 @@ body {
   line-height: 32px;
   color: #222222;
   background-color: #f2f4f6;
-  background-image: url("img/hero-bg.jpg");
+  background-image: url("img/hero-bg.png");
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: top center;
 }
@@ -165,14 +166,14 @@ body {
   text-decoration: none;
   text-transform: uppercase;
   border-radius: 4px;
-  background-color: #288be6;
+  background-color: #B6B7B9;
   color: #ffffff;
 }
 
 .page-footer {
   padding: 40px 0;
-  background-color: #00417d;
-  color: #ffffff;
+  background-color: rgba(95,96,96,0.3);
+    color: #ffffff;
 }
 
 .page-footer a {
